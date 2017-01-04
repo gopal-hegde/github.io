@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gopalakrishna Hegde</title>
+    <link>https://example.com/index.xml</link>
+    <description>Recent content on Gopalakrishna Hegde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Gopalakrishna Hegde</copyright>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CaffePresso : Embedded Deep Learning Inference</title>
+      <link>https://example.com/project/caffepresso/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/caffepresso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Camera</title>
+      <link>https://example.com/project/raspicam/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/raspicam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms</title>
+      <link>https://example.com/publication/cases-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/cases-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Embedded FPGA Accelerato for Deep Learning Applications</title>
+      <link>https://example.com/publication/fccm-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/fccm-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector Processors</title>
+      <link>https://example.com/publication/fccm-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/fccm-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
